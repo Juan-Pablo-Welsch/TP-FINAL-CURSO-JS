@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Simulador Consumo Combustible</title>
+    <link rel="stylesheet" href="css/estilos.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+    <header>
+        <h1>Consumo de Combustible</h1>
+    </header>
+
+    <nav>
+        <button class="nav-btn active" data-target="inicio">Inicio</button>
+        <button class="nav-btn" data-target="carga">Carga</button>
+        <button class="nav-btn" data-target="historial">Historial</button>
+        <button class="nav-btn" data-target="graficos">Gráficos</button>
+    </nav>
+
+    <main class="container">
+        <section id="inicio" class="active">
+            <h2>Bienvenido</h2>
+            <p>Registrá y analizá tu consumo de combustible.</p>
+
+            <h3>Resumen</h3>
+            <div id="resumen-consumo" class="resumen-cards">
+                <div class="card-modern resumen-card"><h4>Consumo medio</h4><p><span id="consumo-medio">0.00</span> L/100 km</p></div>
+                <div class="card-modern resumen-card"><h4>Costo por km</h4><p>$<span id="costo-km">0.00</span></p></div>
+                <div class="card-modern resumen-card"><h4>Total km</h4><p><span id="total-km">0</span> km</p></div>
+                <div class="card-modern resumen-card"><h4>Total litros</h4><p><span id="total-litros">0.00</span> L</p></div>
+                <div class="card-modern resumen-card"><h4>Total gasto</h4><p>$<span id="total-costo">0.00</span></p></div>
+            </div>
+
+            <h3>Estaciones más económicas (último mes)</h3>
+            <div id="mejores-estaciones"></div>
+        </section>
+
+        <section id="carga">
+            <h2>Cargar Combustible</h2>
+            <form id="form-carga">
+                <fieldset>
+                    <label for="fecha">Fecha:</label>
+                    <input type="date" id="fecha" required />
+
+                    <label for="km">Kilómetros:</label>
+                    <input type="number" id="km" min="0" required />
+
+                    <label for="litros">Litros:</label>
+                    <input type="number" id="litros" step="0.01" min="0" required />
+
+                    <label for="precioLitro">Precio por litro:</label>
+                    <input type="number" id="precioLitro" step="0.01" min="0" required />
+
+                    <label for="lugar">Lugar de carga:</label>
+                    <input type="text" id="lugar" required />
+
+                    <label for="tipoCombustible">Tipo de combustible:</label>
+                    <input type="text" id="tipoCombustible" required />
+
+                    <button type="submit">Guardar</button>
+                </fieldset>
+            </form>
+            <div id="mensaje-carga"></div>
+        </section>
+
+        <section id="historial">
+            <h2>Historial</h2>
+            <table id="tabla-historial">
+                <thead>
+                    <tr>
+                        <th>Fecha</th><th>Km</th><th>Litros</th><th>Precio/L</th><th>Costo</th><th>Lugar</th><th>Tipo</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </section>
+
+        <section id="graficos">
+            <h2>Gráficos</h2>
+            <div id="contenedor-graficos">
+                </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 CombustibleApp | Juan Pablo Welsch</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

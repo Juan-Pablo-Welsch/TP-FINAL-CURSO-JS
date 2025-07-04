@@ -1,0 +1,426 @@
+[
+    {
+        "fecha": "2024-09-19",
+        "km": 140459,
+        "litros": 0,
+        "precioLitro": 0,
+        "lugar": "Inicio",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-09-19",
+        "km": 140459,
+        "litros": 13.239,
+        "precioLitro": 1133.00,
+        "lugar": "YPF Av Argentina",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-09-28",
+        "km": 140563,
+        "litros": 8.826,
+        "precioLitro": 1133.00,
+        "lugar": "YPF Av Argentina",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-10-05",
+        "km": 140637,
+        "litros": 17.825,
+        "precioLitro": 1122.00,
+        "lugar": "YPF Av Argentina",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-10-13",
+        "km": 140816,
+        "litros": 17.825,
+        "precioLitro": 1122.00,
+        "lugar": "YPF Av Echeverry",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-10-26",
+        "km": 140989,
+        "litros": 8.912,
+        "precioLitro": 1122.00,
+        "lugar": "YPF Av Argentina",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-11-07",
+        "km": 141207,
+        "litros": 25.071,
+        "precioLitro": 1197.00,
+        "lugar": "Shell Km 35",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-11-16",
+        "km": 141465,
+        "litros": 25.278,
+        "precioLitro": 1187.00,
+        "lugar": "Shell El Cañon Moreno",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-11-23",
+        "km": 141778,
+        "litros": 12.531,
+        "precioLitro": 1197.00,
+        "lugar": "Shell Km 35",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-11-27",
+        "km": 141974,
+        "litros": 12.089,
+        "precioLitro": 1158.00,
+        "lugar": "Shell Av. Gaspar Campos",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-11-28",
+        "km": 142020,
+        "litros": 12.718,
+        "precioLitro": 1180.00,
+        "lugar": "Shell Suipacha",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-12-02",
+        "km": 142190,
+        "litros": 8.417,
+        "precioLitro": 1188.00,
+        "lugar": "Shell Av. Gaspar Campos",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-12-05",
+        "km": 142350,
+        "litros": 28.62,
+        "precioLitro": 1188.00,
+        "lugar": "Shell Av. Gaspar Campos",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-12-20",
+        "km": 143188,
+        "litros": 12.626,
+        "precioLitro": 1188.00,
+        "lugar": "Shell Av. Gaspar Campos",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-12-27",
+        "km": 143461,
+        "litros": 17.62,
+        "precioLitro": 1135.00,
+        "lugar": "Ypf San Miguel",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2024-12-31",
+        "km": 143614,
+        "litros": 8.417,
+        "precioLitro": 1188.00,
+        "lugar": "Shell Av. Gaspar Campos",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2025-01-04",
+        "km": 143771,
+        "litros": 16.736,
+        "precioLitro": 1195.00,
+        "lugar": "YPF Av Argentina",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2025-01-09",
+        "km": 143882,
+        "litros": 28.912,
+        "precioLitro": 11.00,
+        "lugar": "Ypf San Miguel",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2025-01-16",
+        "km": 144343,
+        "litros": 27.260,
+        "precioLitro": 1121.00,
+        "lugar": "Shell Av. Gaspar Campos",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2025-01-25",
+        "km": 144708,
+        "litros": 12.79,
+        "precioLitro": 1251.00,
+        "lugar": "Shell Km 35",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2025-01-26",
+        "km": 144729,
+        "litros": 8.368,
+        "precioLitro": 1196.00,
+        "lugar": "YPF Av Argentina",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2025-01-26",
+        "km": 144901,
+        "litros": 16.313,
+        "precioLitro": 1226.00,
+        "lugar": "Yps San Pedro",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2025-01-31",
+        "km": 145262,
+        "litros": 7.294,
+        "precioLitro": 1235.00,
+        "lugar": "Shell Suipacha",
+        "tipoCombustible": "Nafta súper"
+    },
+    {
+        "fecha": "2025-02-02",
+        "km": 145344,
+        "litros": 29.029,
+        "precioLitro": 1309.00,
+        "lugar": "Shell Centenario, Moreno",
+        "tipoCombustible": "Nafta súper"
+    },
+    {
+        "fecha": "2025-02-10",
+        "km": 145671,
+        "litros": 26.917,
+        "precioLitro": 1226.00,
+        "lugar": "Axion Castelar",
+        "tipoCombustible": "Nafta súper"
+    },
+    {
+        "fecha": "2025-02-14",
+        "km": 145905,
+        "litros": 21.380,
+        "precioLitro": 1263.00,
+        "lugar": "Shell Suipacha",
+        "tipoCombustible": "Nafta súper"
+    },
+    {
+        "fecha": "2025-02-15",
+        "km": 146054,
+        "litros": 10.195,
+        "precioLitro": 1179.00,
+        "lugar": "YPF Gral Belgrano",
+        "tipoCombustible": "Nafta súper"
+    },
+    {
+        "fecha": "2025-02-15",
+        "km": 146217,
+        "litros": 10.653,
+        "precioLitro": 1315.00,
+        "lugar": "Axion Ayacucho",
+        "tipoCombustible": "Nafta súper"
+    },
+    {
+        "fecha": "2025-02-18",
+        "km": 146421,
+        "litros": 16.12,
+        "precioLitro": 1272.00,
+        "lugar": "YPF Necochea",
+        "tipoCombustible": "Nafta súper"
+    },
+    {
+        "fecha": "2025-02-19",
+        "km": 146554,
+        "litros": 9.36,
+        "precioLitro": 1282.00,
+        "lugar": "YPF Mar del Plata",
+        "tipoCombustible": "Nafta súper"
+    },
+    {
+        "fecha": "2025-02-19",
+        "km": 146833,
+        "litros": 21.00,
+        "precioLitro": 1333.00,
+        "lugar": "Shell Chascomus",
+        "tipoCombustible": "Nafta súper"
+    },
+    {
+        "fecha": "2025-02-25",
+        "km": 147140,
+        "litros": 25.447,
+        "precioLitro": 1179.00,
+        "lugar": "YPF San Miguel",
+        "tipoCombustible": "Nafta súper"
+    },
+    {
+        "fecha": "2025-03-05",
+        "km": 147410,
+        "litros": 16.652,
+        "precioLitro": 1201.00,
+        "lugar": "YPF San Miguel",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-03-08",
+        "km": 147593,
+        "litros": 25.916,
+        "precioLitro": 1289.00,
+        "lugar": "YPF Suipacha",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-03-17",
+        "km": 147913,
+        "litros": 20.112,
+        "precioLitro": 1243.00,
+        "lugar": "YPF Av Argentina",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-03-22",
+        "km": 148191,
+        "litros": 30.795,
+        "precioLitro": 1299.00,
+        "lugar": "Axion Balbaatro",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-03-30",
+        "km": 148509,
+        "litros": 15.396,
+        "precioLitro": 1299.00,
+        "lugar": "Shell Gaboto",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-04-05",
+        "km": 148742,
+        "litros": 28.851,
+        "precioLitro": 1283.00,
+        "lugar": "Shell San Miguel",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2025-04-09",
+        "km": 149000,
+        "litros": 22.838,
+        "precioLitro": 1314.00,
+        "lugar": "Shell Suipacha",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2025-04-15",
+        "km": 149406,
+        "litros": 15.81,
+        "precioLitro": 1265.10,
+        "lugar": "YPF Echeverry",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-04-18",
+        "km": 149533,
+        "litros": 27.225,
+        "precioLitro": 1265.00,
+        "lugar": "YPF Av Argentina",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-04-26",
+        "km": 149982,
+        "litros": 11.418,
+        "precioLitro": 1314.00,
+        "lugar": "Shell Suipacha",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-04-28",
+        "km": 150091,
+        "litros": 13.912,
+        "precioLitro": 1222.00,
+        "lugar": "YPF San Miguel",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-05-01",
+        "km": 150211,
+        "litros": 15.516,
+        "precioLitro": 1289.00,
+        "lugar": "Axion Ate Brown",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-05-04",
+        "km": 150478,
+        "litros": 16.129,
+        "precioLitro": 1240.00,
+        "lugar": "Ypf Av Argentina",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-05-09",
+        "km": 150681,
+        "litros": 30.641,
+        "precioLitro": 1240.00,
+        "lugar": "Ypf Av Argentina",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2025-05-16",
+        "km": 151050,
+        "litros": 16.091,
+        "precioLitro": 1243.00,
+        "lugar": "Ypf Av Argentina",
+        "tipoCombustible": "Nafta Super"
+    },
+    {
+        "fecha": "2025-05-21",
+        "km": 151265,
+        "litros": 32.475,
+        "precioLitro": 1201.00,
+        "lugar": "YPF San Miguel",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-05-29",
+        "km": 151616,
+        "litros": 29.98,
+        "precioLitro": 1201.00,
+        "lugar": "YPF San Miguel",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-06-07",
+        "km": 151990,
+        "litros": 34.474,
+        "precioLitro": 1313.99,
+        "lugar": "Shell Suipacha",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-06-17",
+        "km": 152360,
+        "litros": 19.872,
+        "precioLitro": 1258.00,
+        "lugar": "YPF Av Argentina",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-06-22",
+        "km": 152591,
+        "litros": 21.444,
+        "precioLitro": 1399.00,
+        "lugar": "Shell Km 35",
+        "tipoCombustible": "Nafta Súper"
+    },
+    {
+        "fecha": "2025-06-27",
+        "km": 152844,
+        "litros": 31.482,
+        "precioLitro": 1258.00,
+        "lugar": "YPF Av Argentina",
+        "tipoCombustible": "Nafta Súper"
+    }
+]
